@@ -1,2 +1,4 @@
 # weefees
 A Scapy script to find obfuscated SSIDs
+
+ALL SCRIPTS ARE FOR EDUCATIONAL PURPOSES ONLY. DON'T FUCK UP OTHER PEOPLES' SHIT.
